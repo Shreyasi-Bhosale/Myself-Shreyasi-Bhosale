@@ -68,49 +68,7 @@ Technology should be **accessible** and **helpful** to everyone. This project ai
 
 ---
 
-## 📋 Project Roadmap
 
-### **Phase 1: Foundation (Current - Week 2)**
-- [x] Set up repository
-- [x] Basic project structure
-- [ ] Simple chatbot functionality
-- [ ] LangChain integration basics
-- [ ] Can respond to basic queries
-
-### **Phase 2: Core Features (Week 3-4)**
-- [ ] Memory of past conversations
-- [ ] Multiple AI model integration
-- [ ] Better response generation
-- [ ] Error handling & validation
-- [ ] Logging system
-
-### **Phase 3: Advanced Features (Week 5-8)**
-- [ ] Context awareness
-- [ ] User preferences learning
-- [ ] API integrations (weather, news, etc.)
-- [ ] Voice input/output
-- [ ] Improved UI/UX
-
-### **Phase 4: Production Ready (Week 9+)**
-- [ ] Comprehensive testing
-- [ ] Documentation
-- [ ] Performance optimization
-- [ ] Deploy to cloud
-- [ ] User feedback integration
-
----
-
-## 🛠️ Installation & Setup
-
-### **Prerequisites**
-- Python 3.8 or higher
-- pip (Python package manager)
-- Git
-
-### **Steps**
-
-1. **Clone the repository**
-```bash
 git clone https://github.com/Shreyasi-Bhosale/portfolio.git
 cd portfolio
 

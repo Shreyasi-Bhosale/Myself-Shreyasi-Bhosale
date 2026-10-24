@@ -17,20 +17,15 @@ I'm building an **AI Personal Assistant** - a smart, helpful tool designed to ma
 
 ## 💻 Skills & Technologies
 
-### **Languages**
-- 🐍 **Python** - Proficient (main language)
-- 🔧 **C++** - Currently Learning
-- 📝 **JavaScript/HTML/CSS** - Basics
+
 
 ### **AI & Machine Learning**
 - 🤖 **Generative AI** - Learning
-- 🔗 **LangChain** - learning
 - 🧠 **Machine Learning** - Exploring
 - 🗣️ **NLP** - Understanding basics
 
 ### **Tools & Frameworks**
 - 📦 Python libraries (NumPy, Pandas, etc.)
-- 🔌 API Integration
 - 🐙 Git & GitHub
 - 📊 Data Analysis basics
 
@@ -59,12 +54,6 @@ Technology should be **accessible** and **helpful** to everyone. This project ai
 - Customizable for different needs
 - Open-source for others to improve
 
-### **Tech Stack**
-- **Language**: Python 3.8+
-- **AI Framework**: LangChain
-- **AI Models**: OpenAI, Hugging Face
-- **Database**: (Planning)
-- **Deployment**: (In progress)
 
 ---
 
